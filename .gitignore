@@ -1,0 +1,4 @@
+__pycache__/ 
+*.pyc 
+word2vec_model.model 
+*.png 
